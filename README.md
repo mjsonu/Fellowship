@@ -40,8 +40,8 @@ This project uses a pre-trained ResNet50 model to classify images of flowers int
    ```bash
    pip install tensorflow matplotlib numpy
 2. **Download and save the follwing files in current directory:**
-   Dataset images
-   Image segmentations
-   The image labels
+    - Dataset images
+    - Image segmentations
+    - The image labels
    The data splits
 2. **Run the ipynb file**
